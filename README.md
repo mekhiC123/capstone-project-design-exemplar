@@ -3,7 +3,7 @@
 **Table of Contents**
 1. [About the project](#about-the-project)
 2. [Contributors](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/Contributors.md)
-3. [Our Organization]()
+3. [Our Organization](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/organization.md)
 4. [Milestones](#milestones)
     - [Milestone 1](#milestone-1)
     - [Milestone 2](#milestone-2)
@@ -19,7 +19,7 @@ In this section we summarize each milestone and link to a more detail document o
 
 ## Milestone 1
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
-[Milestone 1 Details]()
+[Milestone 1 Details](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/milestone-1.md)
 
 ## Milestone 2
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
