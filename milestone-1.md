@@ -4,7 +4,7 @@
 
 <table>
     <tr>
-        <td colspan="5">1. General Project Information</td>
+        <td colspan="5" style="text-weight:bold">1. General Project Information</td>
     </tr>
     <tr>
         <td colspan="2" >Project Name: </td>
@@ -15,7 +15,7 @@
         <td colspan="3"></td>
     </tr>
     <tr>
-        <td colspan="3">Department Sponsor: </td>
+        <td colspan="2">Department Sponsor: </td>
         <td colspan="3"></td>
     </tr>
     <tr>
