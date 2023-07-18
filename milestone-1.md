@@ -4,7 +4,7 @@
 
 <table>
     <tr>
-        <td colspan="5" style="text-weight:bold">1. General Project Information</td>
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">1. General Project Information</td>
     </tr>
     <tr>
         <td colspan="2" >Project Name: </td>
@@ -23,7 +23,7 @@
         <td colspan="3"></td>
     </tr>
     <tr>
-        <td colspan="5">2. Project Team</td>
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">2. Project Team</td>
     </tr>
     <tr>
         <td></td>
@@ -96,13 +96,13 @@
         <td></td>   
     </tr>
     <tr>
-        <td colspan="5">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
     </tr>
     <tr rowspan="4">
         <td colspan="5"></td> 
     </tr>
     <tr>
-        <td colspan="5">4. Project Scope Statement</td>
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">4. Project Scope Statement</td>
     </tr>
     <tr>
         <td colspan="5">Project Purpose / Business Justification Describe the business need this project addresses</td>  
@@ -138,24 +138,26 @@
         <td colspan="5">Major Known Risks (including significant Assumptions) Identify obstacles that may cause the project to fail.   </td>
     </tr>
     <tr>
-        <table>
-          <tr>
-            <td>Risk </td>
-            <td>Risk Rating (Hi, Med, Lo)</td>
-          </tr>
-          <tr>
-             <td></td>
-             <td></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
-          </tr>
-       </table>
+        <td colspan="5">
+            <table>
+                <tr>
+                    <td>Risk </td>
+                    <td>Risk Rating <small>(Hi, Med, Lo)</small></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+       </td>
     </tr>
     <tr>
         <td colspan="5" >Constraints List any conditions that may limit the project team’s options with respect to resources, personnel, or schedule (e.g., predetermined budget or project end date, limit on number of staff that may be assigned to the project).</td> 
@@ -170,7 +172,7 @@
         <td colspan="5" >&quot;</td>
     </tr>
     <tr>
-        <td colspan="5" >5. Communication Strategy (specify how the project manager will communicate to the Executive Sponsor, Project Team members and Stakeholders, e.g., frequency of status reports, frequency of Project Team meetings, etc.</td>   
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F" >5. Communication Strategy (specify how the project manager will communicate to the Executive Sponsor, Project Team members and Stakeholders, e.g., frequency of status reports, frequency of Project Team meetings, etc.</td>   
     </tr>
     <tr rowspan="3">
         <td colspan="5" >&quot;</td>
