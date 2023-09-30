@@ -354,6 +354,6 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
 
 
 ## Team Contract
-
+[Download Contract](https://github.com/cis-famu/capstone-project-design-exemplar/documents/Team+Contract.pdf)
 
 ## References
