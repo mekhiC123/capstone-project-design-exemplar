@@ -228,7 +228,7 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr rowspan="2">
         <td colspan="5" >
             <ul>
-                <li><strong>Budget Constraint:</strong> The project is constrained by a predetermined budget of $100,000, which must not be exceeded during the entire project lifecycle.</li>
+                <li><strong>Budget Constraint:</strong> The project is constrained by a predetermined budget of $500,000, which must not be exceeded during the entire project lifecycle.</li>
                 <li><strong>Time Constraint:</strong> The project must be completed within the stipulated timeline, with a hard end date of 03/15/2024. Any delays could have significant adverse effects on project success.</li>
                 <li><strong>Resource Constraint:</strong> The project team is limited to a maximum of 10 full-time staff members due to resource availability and budget constraints.</li>
             </ul>
@@ -346,14 +346,77 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
 
 ## Budget, Scope, & Time estimates
 
-### Budget
+### Scope & Time Estimate
 
-### Scope
+| Task                                         | Time Estimate (in hours) | Start Date  | End Date    |
+|----------------------------------------------|--------------------------|-------------|-------------|
+| **1. Project Management (PM)**               | 500                      | 10/01/2023  | 11/30/2023  |
+| - 1.1 Project Initiation and Planning         | 150                      | 10/01/2023  | 10/21/2023  |
+| - 1.2 Risk Management                         | 100                      | 10/22/2023  | 11/06/2023  |
+| - 1.3 Stakeholder Communication and Coordination| 125                     | 11/07/2023  | 11/27/2023  |
+| - 1.4 Project Tracking and Reporting           | 125                      | 11/28/2023  | 12/17/2023  |
+| **2. Requirements Analysis and Planning**     | 750                      | 12/18/2023  | 02/26/2024  |
+| - 2.1 Gather Requirements from Stakeholders    | 200                      | 12/18/2023  | 01/06/2024  |
+| - 2.2 Define System Functionalities and Features| 250                      | 01/07/2024  | 01/27/2024  |
+| - 2.3 Document Data Storage and Retrieval Needs| 300                      | 01/28/2024  | 02/26/2024  |
+| **3. System Design and Architecture**         | 1000                     | 02/27/2024  | 06/06/2024  |
+| - 3.1 Database Design and Development          | 350                      | 02/27/2024  | 04/25/2024  |
+| - 3.2 User Interface Design                    | 250                      | 04/26/2024  | 05/25/2024  |
+| - 3.3 Reporting Functionality Design            | 200                      | 05/26/2024  | 06/06/2024  |
+| - 3.4 Security and Compliance Planning          | 200                      | 05/26/2024  | 06/06/2024  |
+| **4. System Development**                     | 1800                     | 06/07/2024  | 12/10/2024  |
+| - 4.1 Front-end Development                    | 500                      | 06/07/2024  | 08/25/2024  |
+| - 4.2 Back-end Development                     | 600                      | 08/26/2024  | 10/25/2024  |
+| - 4.3 Database Implementation                   | 400                      | 10/26/2024  | 12/10/2024  |
+| **5. Deployment and Training**                 | 600                      | 12/11/2024  | 04/21/2025  |
+| - 5.1 Deployment Planning and Execution         | 200                      | 12/11/2024  | 02/28/2025  |
+| - 5.2 End-user Training                         | 400                      | 03/01/2025  | 04/21/2025  |
+| **6. Documentation and Transfer**              | 300                      | 04/22/2025  | 06/20/2025  |
+| - 6.1 System Documentation                       | 150                      | 04/22/2025  | 05/22/2025  |
+| - 6.2 Knowledge Transfer                         | 150                      | 05/23/2025  | 06/20/2025  |
+| **7. Post-Implementation**                      | 200                      | 06/21/2025  | 08/19/2025  |
+| - 7.1 Performance Monitoring and Optimization    | 100                      | 06/21/2025  | 07/20/2025  |
+| - 7.2 Issue Resolution and Support               | 100                      | 07/21/2025  | 08/19/2025  |
 
-### Time
+
+### Budget Estimate
+
+| Task                                         | Labor (in hours) | Cost per Hour ($) | Total Labor Cost ($) | Non-Labor Cost ($) | Total Cost ($) | 15% Reserve ($) | Final Total Cost ($) |
+|----------------------------------------------|-------------------|-------------------|----------------------|---------------------|----------------|------------------|----------------------|
+| **1. Project Management (PM)**               | 500               | 50                | 25000                | 10000               | 35000          | 5250             | 40250                |
+| - 1.1 Project Initiation and Planning         | 150               | 50                | 7500                 | 2500                | 10000          | 1500             | 11500                |
+| - 1.2 Risk Management                         | 100               | 50                | 5000                 | 1500                | 6500           | 975              | 7475                 |
+| - 1.3 Stakeholder Communication and Coordination| 125              | 50                | 6250                 | 2500                | 8750           | 1312.5           | 10062.5              |
+| - 1.4 Project Tracking and Reporting           | 125               | 50                | 6250                 | 3500                | 9750           | 1462.5           | 11212.5              |
+| **2. Requirements Analysis and Planning**     | 750               | 40                | 30000                | 12500               | 42500          | 6375             | 48875                |
+| - 2.1 Gather Requirements from Stakeholders    | 200               | 40                | 8000                 | 2000                | 10000          | 1500             | 11500                |
+| - 2.2 Define System Functionalities and Features| 250               | 40                | 10000                | 4000                | 14000          | 2100             | 16100                |
+| - 2.3 Document Data Storage and Retrieval Needs| 300               | 40                | 12000                | 6500                | 18500          | 2775             | 21275                |
+| **3. System Design and Architecture**         | 1000              | 55                | 55000                | 17500               | 72500          | 10875            | 83375                |
+| - 3.1 Database Design and Development          | 350               | 55                | 19250                | 5000                | 24250          | 3637.5           | 27887.5              |
+| - 3.2 User Interface Design                    | 250               | 55                | 13750                | 6000                | 19750          | 2962.5           | 22712.5              |
+| - 3.3 Reporting Functionality Design            | 200               | 55                | 11000                | 4000                | 15000          | 2250             | 17250                |
+| - 3.4 Security and Compliance Planning          | 200               | 55                | 11000                | 2500                | 13500          | 2025             | 15525                |
+| **4. System Development**                     | 1800              | 60                | 108000               | 40000               | 148000         | 22200            | 170200               |
+| - 4.1 Front-end Development                    | 500               | 60                | 30000                | 10000               | 40000          | 6000             | 46000                |
+| - 4.2 Back-end Development                     | 600               | 60                | 36000                | 15000               | 51000          | 7650             | 58650                |
+| - 4.3 Database Implementation                   | 400               | 60                | 24000                | 15000               | 39000          | 5850             | 44850                |
+| **5. Deployment and Training**                 | 600               | 45                | 27000                | 12000               | 39000          | 5850             | 44850                |
+| - 5.1 Deployment Planning and Execution         | 200               | 45                | 9000                 | 4000                | 13000          | 1950             | 14950                |
+| - 5.2 End-user Training                         | 400               | 45                | 18000                | 8000                | 26000          | 3900             | 29900                |
+| **6. Documentation and Transfer**              | 300               | 35                | 10500                | 8000                | 18500          | 2775             | 21275                |
+| - 6.1 System Documentation                       | 150               | 35                | 5250                 | 5000                | 10250          | 1537.5           | 11787.5              |
+| - 6.2 Knowledge Transfer                         | 150               | 35                | 5250                 | 3000                | 8250           | 1237.5           | 9487.5               |
+| **7. Post-Implementation**                      | 200               | 30                | 6000                 | 5000                | 11000          | 1650             | 12650                |
+| - 7.1 Performance Monitoring and Optimization    | 100               | 30                | 3000                 | 3000                | 6000           | 900              | 6900                 |
+| - 7.2 Issue Resolution and Support               | 100               | 30                | 3000                 | 2000                | 5000           | 750              | 5750                 |
+| **Subtotal**                                    |                   |                   | 257500               | 100000              | 357500         | 53625            | 411125               |
+| **Reserver (15%)**                                    |                   |                   |            |               |          |             | 53625               |
+| **Total**                                    |                   |                   | 257500               | 100000              | 357500         | 53625            | 464750               |
 
 
 ## Team Contract
 [Download Contract](https://github.com/cis-famu/capstone-project-design-exemplar/documents/Team+Contract.pdf)
 
 ## References
+*None*
