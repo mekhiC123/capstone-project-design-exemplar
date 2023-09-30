@@ -12,7 +12,7 @@
 
 <table>
     <tr>
-        <th colspan="5" style="text-align:left;font-weight:bold; background-color:#F4811F">1. General Project Information</th>
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">1. General Project Information</td>
     </tr>
     <tr>
         <td colspan="2" >Project Name: </td>
@@ -32,7 +32,7 @@
 women's issues, health, and employment.</td>
     </tr>
     <tr>
-        <th colspan="5" style="text-align:left;font-weight:bold; background-color:#F4811F">2. Project Team</th>
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">2. Project Team</td>
     </tr>
     <tr>
         <td></td>
