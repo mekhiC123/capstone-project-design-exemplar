@@ -410,8 +410,6 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
 | **7. Post-Implementation**                      | 200               | 30                | 6000                 | 5000                | 11000          | 1650             | 12650                |
 | - 7.1 Performance Monitoring and Optimization    | 100               | 30                | 3000                 | 3000                | 6000           | 900              | 6900                 |
 | - 7.2 Issue Resolution and Support               | 100               | 30                | 3000                 | 2000                | 5000           | 750              | 5750                 |
-| **Subtotal**                                    |                   |                   | 257500               | 100000              | 357500         | 53625            | 411125               |
-| **Reserver (15%)**                                    |                   |                   |            |               |          |             | 53625               |
 | **Total**                                    |                   |                   | 257500               | 100000              | 357500         | 53625            | 464750               |
 
 
