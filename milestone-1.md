@@ -314,7 +314,7 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
                 <strong>User Feedback Incorporation:</strong> Actively seek feedback from end-users during system development to incorporate improvements that align with their needs and expectations.
             </li>
         </ul>
-        <p>[Download Signed Copy](https://github.com/cis-famu/capstone-project-design-exemplar/documents/Project+Charter.pdf)</p>
+        <p><a href="https://github.com/cis-famu/capstone-project-design-exemplar/documents/Project+Charter.pdf" target="_blank">Download Signed Copy</a></p>
         </td>
     </tr>
 </table>
