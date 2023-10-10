@@ -9,7 +9,7 @@ My name is Vanessa Coote, and I am an Instructor in the Computer & Information S
 ## Jasmine Carter
 ![stock image](/img/headshots/jasmine.jpeg)
 
-I'm Jasmine Carter, a 20-year-old Computer Science major at Florida A&M University. I've interned at Grainer and Intel, showcasing my dedication and talent in the field. Alongside my academics, I have strong leadership skills, serving as the president of the Computer Science Club, organizing workshops, hackathons, and mentoring underrepresented students in STEM. In the future, I aim to work on impactful projects, bridge the gender and racial gaps in tech, and inspire others to pursue their STEM dreams. My passion lies in making a meaningful impact, advocating for diversity and inclusion, and contributing to the advancement of technology. I'm excited about the possibilities ahead and eager to create a more inclusive and diverse industry for future generations.
+I'm Jasmine Carter, a 20-year-old Computer Science major at Florida A&M University. I've interned at Grainger and Intel, showcasing my dedication and talent in the field. Alongside my academics, I have strong leadership skills, serving as the president of the Computer Science Club, organizing workshops, hackathons, and mentoring underrepresented students in STEM. In the future, I aim to work on impactful projects, bridge the gender and racial gaps in tech, and inspire others to pursue their STEM dreams. My passion lies in making a meaningful impact, advocating for diversity and inclusion, and contributing to the advancement of technology. I'm excited about the possibilities ahead and eager to create a more inclusive and diverse industry for future generations.
 
 ## Michael Thompson
 ![stock image](/img/headshots/michael.jpeg)
