@@ -4,6 +4,7 @@
 1. Task & Schedule Management
     - [Work Breakdown Structure](#work-breadown-structure)
     - [Gantt Chart  & Network Diagram](#gantt-chart--network-diagram)
+1. [Requirements](#requirements)
 1. [Use Cases](#use-cases)
 1. [Use Case Diagram](#use-case-diagram)
 1. [Research on other systems](#research-on-other-systems)
@@ -87,6 +88,73 @@
 ![gantt chart](/img/wbs(1).png)
 
 [Downloadable Project Management File](/documents/WIN%20Belize%20Project.mpp)
+
+## Requirements
+
+### Functional Requirements:
+
+1. **Data Entry and Storage:**
+   - The system will be able to allow authorized users to enter and store data related to violence against women, health issues, and employment.
+   - The system will organize and categorize the entered data based on specified criteria.
+
+2. **Search and Retrieval:**
+   - The system will provide a search functionality enabling users to search for information based on various parameters such as date, category, location, and keywords.
+   - The system will allow users to retrieve relevant data efficiently and in a user-friendly format.
+
+3. **Reporting:**
+   - The system will generate comprehensive reports based on the entered data, categorizing and summarizing the information for analysis and decision-making purposes.
+   - The system will allow users to customize and export reports in various formats (e.g., PDF, Excel) for further use and sharing.
+
+4. **User Authentication and Authorization:**
+   - The system will authenticate users at login and provide access based on their roles and permissions within the organization.
+   - The system will allow administrators to manage user roles and permissions.
+
+5. **User Interface:**
+   - The system will provide an intuitive and user-friendly interface for easy navigation and interaction.
+   - The system will be accessible on multiple devices (desktops, tablets, smartphones) to accommodate varying user preferences.
+
+### Non-Functional Requirements:
+
+1. **Performance:**
+   - The system will respond to user actions swiftly, ensuring minimal latency even during peak usage times.
+   - The system will support a large number of concurrent users without a significant degradation in performance.
+
+2. **Security:**
+   - The system will ensure data security by employing encryption techniques to protect sensitive information during storage and transmission.
+   - The system will implement user authentication and access controls to prevent unauthorized access and maintain confidentiality.
+
+3. **Scalability:**
+   - The system will be designed to scale seamlessly as the volume of data and user base grows, ensuring continued performance and reliability.
+
+4. **Reliability and Availability:**
+   - The system will have a robust backup and recovery mechanism to ensure data integrity and availability in case of failures or disruptions.
+   - The system will strive for high uptime, aiming for a minimum of 99% availability to ensure users can access the system whenever needed.
+
+5. **Compliance:**
+   - The system will adhere to relevant data privacy and security regulations, ensuring compliance with local and international laws.
+   - The system will support auditability, allowing tracking and monitoring of user activities for compliance purposes.
+Certainly! Cultural non-functional requirements are crucial for ensuring the system aligns with the cultural context and norms of the target user base. Here are additional non-functional requirements considering cultural aspects:
+
+1. **Language and Localization:**
+   - The system will support multiple languages to cater to users from diverse linguistic backgrounds, especially considering Belize's multicultural society.
+   - The system will provide an option for users to select their preferred language for the interface and data entry.
+
+2. **Cultural Sensitivity:**
+   - The system will promote cultural sensitivity by ensuring that the language, imagery, and references used in the system do not offend or exclude any specific cultural group.
+   - The system will incorporate diverse perspectives and sensitivities related to gender, ethnicity, and cultural practices in its design and content.
+
+3. **Inclusivity and Diversity:**
+   - The system will embrace inclusivity by accommodating various cultural perspectives, traditions, and beliefs, ensuring that the platform is accessible and welcoming to all users, regardless of their cultural backgrounds.
+   - The system will avoid any discriminatory practices, biases, or stereotypes based on cultural attributes or backgrounds.
+
+4. **User Training and Cultural Sensitization:**
+   - The system will include training modules that educate users and stakeholders about cultural nuances and sensitivities relevant to the subject matter, fostering understanding and respect.
+   - The system will promote cultural awareness and understanding among users to enhance communication and collaboration within the platform.
+
+5. **Community Involvement:**
+   - The system will encourage community involvement and engagement, recognizing the importance of community values and customs in addressing women's issues, health, and employment.
+   - The system will support collaborative efforts with local communities, organizations, and cultural leaders to ensure the platform's relevance and effectiveness within the Belizean cultural context.
+
 ## Use Cases
 
 
