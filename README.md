@@ -23,7 +23,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 
 ## Milestone 2
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
-[Milestone 2 Details]()
+[Milestone 2 Details](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/milestone-2.md)
 
 ## Milestone 3
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
