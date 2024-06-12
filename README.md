@@ -1,4 +1,5 @@
 # EmpowerNet - WIN Belize Project
+![Logo](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/cropped-My-project-1-10.png)
 
 **Table of Contents**
 1. [About the project](#about-the-project)
