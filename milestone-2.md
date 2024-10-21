@@ -156,8 +156,46 @@ Certainly! Cultural non-functional requirements are crucial for ensuring the sys
    - The system will support collaborative efforts with local communities, organizations, and cultural leaders to ensure the platform's relevance and effectiveness within the Belizean cultural context.
 
 ## Use Cases
+Use Case: Accessing Mental Health Support through SafeWell Application
+1. Use Case Name:
+Access Mental Health Support
 
-
+2. Actors:
+Primary Actor: Student (User)
+Secondary Actors:
+SafeWell Application
+Mental Health Professional
+System Admin (for technical support)
+3. Goals:
+The student seeks mental health assistance through the SafeWell app.
+The student wants to schedule a session (one-on-one or group) or access mental health resources.
+4. Preconditions:
+The student must have created an account on the SafeWell app.
+The app must be functional and connected to the internet.
+5. Main Success Scenario (Happy Path):
+Trigger: The student logs into the SafeWell app, looking for mental health support.
+The student navigates to the "Support Services" section.
+The student selects either "One-on-One Session" or "Group Session."
+The app displays available times for sessions with mental health professionals.
+The student selects a time and confirms the booking.
+The app sends a confirmation message with the session details to the student.
+The mental health professional is notified of the appointment.
+The session takes place at the scheduled time through the app's secure video interface.
+After the session, the app prompts the student to provide feedback.
+Postcondition: The session is recorded in the system, and the student receives any follow-up resources or recommendations.
+6. Alternate Flows:
+A1: The student tries to book a session, but no times are available.
+The app suggests alternate times or offers to notify the student when a slot becomes available.
+The student can choose to be added to a waiting list.
+A2: The student loses connection during the session.
+The app attempts to reconnect automatically.
+If unsuccessful, the app offers the student options to reschedule or contact technical support.
+7. Postconditions:
+The session is successfully completed, and the student feels supported.
+The app logs the session and updates the student’s mental health history.
+8. Triggers:
+The student initiates a request for mental health support.
+A notification prompts the student about an upcoming scheduled session.
 
 ## Use Cases Diagram
 
